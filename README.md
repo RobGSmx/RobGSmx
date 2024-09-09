@@ -1,3 +1,8 @@
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/Welcomegif.gif?raw=true" alt="Welcome GIF" width="50%" style="margin-bottom: 0;">
+</p>
+
+
 <h1 align="center">Hello 👋, I'm Roberto</h1> <h3 align="center">Data Analyst | B.Mechatronics.Engineer. | M.Banking and Financial Markets | Guitarist</h3> <p align="left"> I'm a passionate engineer with a focus on data analysis and business intelligence (BI). My goal is to leverage data to uncover insights, drive efficiency, and support decision-making processes. With a strong foundation in purchasing, methods, processes, databases and analytics, I am always eager to learn new technologies and tackle complex challenges. </p>
 
 --------------------------------------------------------------------------------------------------
