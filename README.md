@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Roberto</h1> <h3 align="center">Data Analyst | B.Mechatronics.Engineer. | M.Banking and Financial Markets | Guitarist</h3> <p align="left"> I'm a passionate engineer with a focus on data analysis and business intelligence (BI). My goal is to leverage data to uncover insights, drive efficiency, and support decision-making processes. With a strong foundation in programming, databases, and analytics, I am always eager to learn new technologies and tackle complex challenges. </p>
+<h1 align="center">Hello 👋, I'm Roberto</h1> <h3 align="center">Data Analyst | B.Mechatronics.Engineer. | M.Banking and Financial Markets | Guitarist</h3> <p align="left"> I'm a passionate engineer with a focus on data analysis and business intelligence (BI). My goal is to leverage data to uncover insights, drive efficiency, and support decision-making processes. With a strong foundation in purchasing, methods, processes, databases and analytics, I am always eager to learn new technologies and tackle complex challenges. </p>
 
 --------------------------------------------------------------------------------------------------
 <h3 align="left">🌐 Connect with me:-</h3>
@@ -10,7 +10,7 @@
 
 &emsp;&emsp;- 📫 Email: &emsp; **roguitarcoder@gmail.com**
 
-&emsp;&emsp;- 📫 Web page and portfolio: &emsp; **link**
+&emsp;&emsp;- 📫 Web page and portfolio: &emsp; **Under construction, will be ready soon**
 
 --------------------------------------------------------------------------------------------------
 
