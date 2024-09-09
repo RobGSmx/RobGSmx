@@ -45,7 +45,7 @@
     </a> MongoDB   
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-left: 20px; margin-right: 10px;" /> 
-    </a> Microsoft SQL Server   
+    </a> Microsoft SQL Server  &nbsp; &nbsp; &nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-left: 20px; margin-right: 10px;" /> 
     </a> MySQL   
