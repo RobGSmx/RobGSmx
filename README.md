@@ -5,7 +5,9 @@
 <h1 align="center">Hello 👋, I'm Roberto</h1> <h3 align="center">Data Analyst | B.Mechatronics.Engineer. | M.Banking and Financial Markets | Guitarist</h3> <p align="left"> I'm a passionate engineer with a focus on data analysis and business intelligence (BI). My goal is to leverage data to uncover insights, drive efficiency, and support decision-making processes. With a strong foundation in purchasing, methods, processes, databases and analytics, I am always eager to learn new technologies and tackle complex challenges. </p>
 
 --------------------------------------------------------------------------------------------------
-<h3 align="left">🌐 Connect with me:-</h3>
+<ins>
+<h3 align="left">🌐 Connect with me:</h3>
+</ins>
 
 &emsp;&emsp;- 📫 LinkedIn: &emsp;
   <a href="https://www.linkedin.com/in/roberto-garcia-santin/" target="blank">
@@ -17,8 +19,9 @@
 &emsp;&emsp;- 📫 Web page and portfolio: &emsp; **Under construction, will be ready soon**
 
 --------------------------------------------------------------------------------------------------
-
+<ins>
 <h3 align="left">🛠️ Languages and Tools:</h3>
+</ins>
 <br>
 <div style="padding-left: 40px; margin-left: 10px;">
   <p align="left" style="display: inline-block;"> 
@@ -62,6 +65,13 @@
 </div>
 
 --------------------------------------------------------------------------------------------------
-<h3 align="left"> 📊 BI Tools:</h3>
+<ins>
+  <h3 align="left"> <b><u>📊 BI Tools:</u></b></h3>
+</ins>
 
-|Power BI|<a href="PNG/Power-BI.png"><img src="PNG/Power-BI.png" height="25"/></a>
+<br>
+<a href="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/powerbiicon.png"><img src="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/powerbiicon.png" height="25"/></a> Power BI   
+<a href="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/microicon.png"><img src="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/microicon.png" height="25"/></a> MicroStrategy   
+<a href="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/looker-icon.svg"><img src="https://github.com/RobGSmx/RobGSmx/blob/main/IMG/looker-icon.svg" height="25"/></a> Looker
+
+
