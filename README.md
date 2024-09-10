@@ -18,6 +18,12 @@
 
 &emsp;&emsp;- 📫 Web page and portfolio: &emsp; **Under maintenance, will be ready soon**
 
+&emsp;&emsp;- 📫 Certifications/Diplomas: &emsp; 
+
+&emsp;&emsp;&emsp;&emsp;- [Data Science Acreditta](https://www.acreditta.com/credential/5ab422c2-c305-4abd-91d3-62ee5dca1462)  
+&emsp;&emsp;&emsp;&emsp;- [Prototype Dat Acreditta](https://www.acreditta.com/credential/f0c97375-f9ea-4155-82ea-68d762d214da)  
+&emsp;&emsp;&emsp;&emsp;- [Data Analyst (PDF)](https://docs.google.com/feeds/download/presentations/Export?id=1NMP2gxQXLFQNHfaFHPvUemyHO3IEUHUHsOMzn-WcXtM&exportFormat=pdf)
+
 --------------------------------------------------------------------------------------------------
 <ins>
 <h3 align="left">🛠️ Languages and Tools:</h3>
