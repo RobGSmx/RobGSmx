@@ -16,7 +16,7 @@
 
 &emsp;&emsp;- 📫 Email: &emsp; **roguitarcoder@gmail.com**
 
-&emsp;&emsp;- 📫 Web page and portfolio: &emsp; **Under construction, will be ready soon**
+&emsp;&emsp;- 📫 Web page and portfolio: &emsp; **Under maintenance, will be ready soon**
 
 --------------------------------------------------------------------------------------------------
 <ins>
